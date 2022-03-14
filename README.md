@@ -1,5 +1,6 @@
 <p align="center"><img width="450" height="300" src="https://user-images.githubusercontent.com/75260179/157315162-74031115-99d2-45a0-b93e-a3161a64d877.jpg" width="300" height="300"> </p>
-# Spam-Detector
+
+## Spam-Detector
 Spam Detector is an online Email/SMS Spam Classifier based binary classification model to detect whether a text message is spam or not (i.e Ham).
 In this project, I have used many algorithms to create a model that can classify SMS messages as spam or not spam. Being able to identify spam messages is a binary classification problem as messages are classified as either 'Spam' or 'Not Spam'. Also, this is a supervised learning problem, as we will be feeding a labelled dataset into the model, that it can learn from, to make future predictions.
 
